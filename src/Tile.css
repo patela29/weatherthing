@@ -1,0 +1,35 @@
+.tile {
+  color: #2d2d2d;
+  width: 100px;
+  height: 150px;
+  text-align: center;
+  border:1px solid #2d2d2d;
+  border-radius: 10px;
+  margin: 50px 5px 0px 5px;
+  padding: 10px;
+  display: inline-block;
+  background-color: #fafafa;
+}
+
+.tile:hover {
+  transform: scale(1.05);
+}
+
+span.day{
+  font-size: 22px;
+}
+
+.temp-hi {
+  float: left;
+  padding-left: 10px;
+  font-size: 18px;
+}
+.temp-lo {
+  float: right;
+  padding-right: 10px;
+  font-size: 18px;
+}
+
+img{
+  padding: 20px 20px 10px 20px;
+}

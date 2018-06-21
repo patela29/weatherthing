@@ -1,0 +1,18 @@
+.top{
+    font-family: 'Shrikhand', cursive;
+    font-size: 60px;
+    text-align: center;
+    background-color: #545454;
+    color: #fafafa;
+    height: 200px;
+    line-height: 200px;
+}
+
+.middle {
+    text-align: center;
+    height: 300px;
+}
+
+.bottom {
+    text-align: center;
+}
